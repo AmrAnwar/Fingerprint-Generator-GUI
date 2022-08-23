@@ -1,5 +1,6 @@
 # Fingerprint-Generator-GUI
 GUI for different machine learning fingerprint generator models
+![Canvas generator](/images/f_7.png)
 
 ## Run from docker 
 ```
